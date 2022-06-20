@@ -5,4 +5,4 @@ def KruskalD(self):
 def KruskalI(self):
 def Prim(self):
 
-The Main Graphs file, take the user through the random graphs creation and their respective minimum spanning tree
+Graph_Data contains the Trees results
